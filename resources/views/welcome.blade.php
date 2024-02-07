@@ -21,6 +21,7 @@
         </style>
     </head>
     <body class="antialiased">
-        INI TEST APP 
+        INI TEST APP
+        INI VCY 
     </body>
 </html>
