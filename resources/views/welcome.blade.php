@@ -23,5 +23,7 @@
     <body class="antialiased">
         INI TEST APP
         INI VCY 
+        INI RFW
+        INI MLP
     </body>
 </html>
