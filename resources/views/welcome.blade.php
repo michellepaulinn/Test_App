@@ -23,6 +23,5 @@
     <body class="antialiased">
         INI TEST APP
         INI VCY 
-        INI MLP
     </body>
 </html>
